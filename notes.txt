@@ -1,0 +1,4 @@
+Steps
+
+1. Create and run Template.py for folder structure
+2. Update Requirements.txt with the required libraries
