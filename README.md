@@ -16,7 +16,7 @@
 
 ```Dataset```
 
-Wine Quality Prediction
+Wine Quality Prediction - https://raw.githubusercontent.com/ankit-world/Datasets/main/winequality-red.csv
 
 ```Project Workflow```
 1. update config.yaml
